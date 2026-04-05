@@ -8,6 +8,7 @@ A collection of Java programs covering fundamental concepts and problem-solving 
 
 * 🔢 Operators
 * 🔄 Typecasting
+* 🔀 Conditionals
 * 📚 More coming soon...
 
 ---
@@ -18,6 +19,7 @@ A collection of Java programs covering fundamental concepts and problem-solving 
 src/
  ├── operators/
  └── typecasting/
+ └── conditionals/
 ```
 
 ---
