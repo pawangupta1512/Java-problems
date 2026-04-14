@@ -10,6 +10,7 @@ A collection of Java programs covering fundamental concepts and problem-solving 
 * 🔄 Typecasting
 * 🔀 Conditionals
 * 🧩 Patterns
+* 📘 Methods
 * 📚 More coming soon...
 
 ---
@@ -22,6 +23,7 @@ src/
  └── typecasting/
  └── conditionals/
  └── patterns/
+ └── methods/
 ```
 
 ---
