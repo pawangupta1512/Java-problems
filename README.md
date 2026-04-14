@@ -11,6 +11,7 @@ A collection of Java programs covering fundamental concepts and problem-solving 
 * 🔀 Conditionals
 * 🧩 Patterns
 * 📘 Methods
+* 📘 Arrays
 * 📚 More coming soon...
 
 ---
@@ -24,6 +25,7 @@ src/
  └── conditionals/
  └── patterns/
  └── methods/
+ └── arrays/
 ```
 
 ---
