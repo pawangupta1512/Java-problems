@@ -12,6 +12,8 @@ A collection of Java programs covering fundamental concepts and problem-solving 
 * 🧩 Patterns
 * 📘 Methods
 * 📘 Arrays
+* 📘 Strings
+* 📘 Basic Maths
 * 📚 More coming soon...
 
 ---
@@ -26,6 +28,8 @@ src/
  └── patterns/
  └── methods/
  └── arrays/
+ └── strings/
+ └── basic maths/
 ```
 
 ---
