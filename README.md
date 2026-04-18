@@ -14,6 +14,7 @@ A collection of Java programs covering fundamental concepts and problem-solving 
 * 📘 Arrays
 * 📘 Strings
 * 📘 Basic Maths
+* 📘 OOPS
 * 📚 More coming soon...
 
 ---
@@ -30,6 +31,7 @@ src/
  └── arrays/
  └── strings/
  └── basic maths/
+ └── oops/
 ```
 
 ---
